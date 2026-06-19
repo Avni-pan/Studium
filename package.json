@@ -1,0 +1,13 @@
+{
+  "name": "studium",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^6.0.227"
+  }
+}
